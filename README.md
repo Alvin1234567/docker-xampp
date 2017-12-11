@@ -25,7 +25,7 @@ And to open up the XAMPP interface: [http://localhost:4062/](http://localhost:40
 default SSH password is 'root'.
 
 ```
-ssh root@localhost -p 41061
+ssh root@localhost -p 4061
 ```
 
 ### get a shell terminal inside your container
