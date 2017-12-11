@@ -1,5 +1,9 @@
 This image is intended for PHP+MySQL development. For convenience, it also runs SSH server to connect to. __Both MySQL and phpmyadmin use default XAMPP password__.
 
+## clone project
+```
+git clone https://github.com/Alvin1234567/docker-xampp {my_app}
+```
 
 ## Running the image:
 
