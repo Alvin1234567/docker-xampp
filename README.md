@@ -1,4 +1,4 @@
-This image is intended for PHP+MySQL development. For convenience, it also runs SSH server to connect to. __Both MySQL and phpmyadmin use default XAMPP password__.
+This image is intended for PHP(5.6.21)+MySQL development. For convenience, it also runs SSH server to connect to. __Both MySQL and phpmyadmin use default XAMPP password__.
 
 ## clone project
 ```
